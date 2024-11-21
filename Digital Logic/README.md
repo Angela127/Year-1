@@ -8,7 +8,7 @@ Digital electronics lays the foundation for understanding microprocessor-based s
 **Module 3** - Logic Gates <br>
 **Module 4** - Boolean Algebra and Logic Simplification <br>
 **Module 5** - Combinational Logic Circuit <br>
-**Module 6** -  Functions of Combinational Logic <br>
+**Module 6** - Functions of Combinational Logic <br>
 **Module 7** - Latches, Flip-Flops and Timers <br>
 **Module 8** - Counters <br>
 **Module 9** - Shift Register <br>
