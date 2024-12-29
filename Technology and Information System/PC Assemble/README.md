@@ -1,5 +1,5 @@
 ## 💭Reflection
-<h3>PC Assemble🖥️</h3>
+<h3 align="center">PC Assemble🖥️</h3>
 <p align= "justify">
 Reflecting on the process of assembling and disassembling a CPU, I gained valuable insights into the intricacies of computer hardware. This hands-on learning experience bridges theoretical knowledge with practical application, offering me a clearer understanding of how components like the motherboard, random access memory (RAM), hard disk drive (HDD) and CPU fan interconnect and function as a cohesive system.
 
