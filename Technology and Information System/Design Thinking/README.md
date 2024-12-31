@@ -16,7 +16,7 @@ To further develop my potential, I plan to embrace opportunities for collaborati
   <a href="https://github.com/Angela127/Year-1/blob/9ba5ad75d380b157c6cd5ab7e5cd5af2ec95a30c/Technology%20and%20Information%20System/Design%20Thinking/DESIGN_THINKING%20-%20GROUP%207.pdf">Design Thinking Report</a>
   <br><br>
   <h3>-Video-</h3>
-  <a href="https://drive.google.com/file/d/1Auqq9nvePBwRj7YkC7GAWtDV_oDXbAEu/view">Design Thinking Video</a>
+  <a href="https://youtu.be/tTmLTqwmcM8">Design Thinking Video</a>
   <br><br>
   <img src="Design Thinking.png" alt="Video"/>
   <br>
