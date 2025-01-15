@@ -1,1 +1,13 @@
+## 💭Reflection
+<h3 align="center">Overview of ICT Jobs in Industry👩🏻‍💻</h3>
+<p align= "justify">
+The industry talks were highly engaging and insightful, showcasing the transformative role of ICT professionals in driving advancements in fields such as artificial intelligence (AI), augmented reality (AR), virtual reality (VR), mixed reality (MR) and extended reality (XR). These emerging technologies are revolutionizing sectors such as healthcare, education and business, with innovative solutions like HoloMedicine reshaping virtual surgery. The discussions highlighted the significant opportunities these fields offer for impactful contributions, emphasizing the need for continuous learning and adaptation.
 
+In addition to technical insights, the entrepreneurial lessons shared during the RunCloud talk were equally motivating. The importance of maintaining a positive mindset, nurturing supportive relationships and embracing failure as a stepping stone for success was underscored. Mr. Arif Tukiman’s journey from managing a small t-shirt business to achieving notable success exemplifies how leveraging personal skills and taking incremental steps can lead to substantial accomplishments. His story motivates me to utilize my current skills and knowledge to take small but decisive actions toward achieving long-term career goals.
+
+In conclusion, the talks offered valuable insights into the pivotal role of ICT in shaping the future and inspiring entrepreneurial growth. They resonate strongly with my academic pursuits and career aspirations, emphasizing the importance of technical expertise, adaptability and an entrepreneurial mindset. As a student pursuing a degree in Computer Science specializing in Data Engineering, the insights into cutting-edge technologies like AI and XR inspire me to explore how data-driven approaches can power such innovations. Moreover, the emphasis on entrepreneurship and real-world problem-solving aligns with my aspiration to not only excel in technical skills but also apply them to address meaningful challenges. The value of teamwork, practical experience and strategic thinking discussed during the talks reinforces the importance of group projects and analytical tools like SWOT analysis, which are essential for academic and professional growth.
+
+<div align="center">
+  <h3>-Poster-</h3>
+  <a href="https://github.com/Angela127/Year-1/blob/18e036f7cc953b4fe49a12105b6b338ccae72bfd/Technology%20and%20Information%20System/Industry%20Talk%20%26%20Industry%20Visit/Assignment%201%20(Format%3A%20Poster)/Assignment%201%20Group%207%20Section%2002%20SECP1513.pdf">Overview of ICT Jobs in Industry</a>
+<br><br>
