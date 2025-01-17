@@ -1,4 +1,4 @@
-## 💭Reflection
+## 💭 Reflection
 <h3 align="center">Industry Visit to UTM Digital🏢</h3>
 <p align= "justify">
 The visit to UTM Digital offered me a profound and enlightening experience, showcasing the remarkable technological advancements and digital solutions implemented at Universiti Teknologi Malaysia. During the session, I gained valuable insights into the services provided by UTM Digital, including UTMID, official email platforms, and university websites, as well as the campus-wide WiFi coverage. The announcement about the implementation of WiFi 6 next year to enhance connectivity was particularly exciting, reflecting the university's proactive approach to technological upgrades.
