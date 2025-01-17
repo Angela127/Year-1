@@ -1,4 +1,4 @@
-## 💭Reflection
+## 💭 Reflection
 <h3 align="center">Skills in University and Industry🎙️</h3>
 <p align= "justify">
 The insights shared by Mr. Mohd Hakimi Iqmall and Mr. Nik Mohd Habibullah, as well as the research findings on industry-required skills, highlight the critical importance of aligning academic learning with real-world demands in the field of computer science and IT. Their experiences and advice have deepened my understanding of the technical and interpersonal skills necessary for career success in this dynamic and evolving industry.
