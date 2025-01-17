@@ -1,4 +1,4 @@
-## 💭Reflection
+## 💭 Reflection
 <h3 align="center">Overview of ICT Jobs in Industry👩🏻‍💻</h3>
 <p align= "justify">
 The industry talks were highly engaging and insightful, showcasing the transformative role of ICT professionals in driving advancements in fields such as artificial intelligence (AI), augmented reality (AR), virtual reality (VR), mixed reality (MR) and extended reality (XR). These emerging technologies are revolutionizing sectors such as healthcare, education and business, with innovative solutions like HoloMedicine reshaping virtual surgery. The discussions highlighted the significant opportunities these fields offer for impactful contributions, emphasizing the need for continuous learning and adaptation.
