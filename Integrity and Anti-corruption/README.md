@@ -1,5 +1,17 @@
-## 💭Reflection
-<h3 align="center">Integrity and Anti-corruption💸</h3>
+## Course Information 💸
+
+<p align="justify">
+Technology and Information System introduces the basics of information systems and technology (IS/IT) and its applications at home and work. It covers hardware, software, networks, and communication technologies. We will develop practical skills through PC installation and productivity tools in lab sessions. Industry visits and guest talks offer exposure to real-world environments and insights into IT careers. This course also encourages exploration of job specifications and career requirements in IT, fostering connections between academic learning and industry needs.
+
+**Module 1** - Emerging Technology in ICT <br>
+**Module 2** - Hardware <br>
+**Module 3** - Software <br>
+**Module 4** - Information Systems & Methodology <br>
+**Module 5** - Databases and Data Analytics  <br>
+**Module 6** - Networks and Communications <br>
+**Module 7** - Privacy, Security, and Ethics <br>
+**Module 8** - Cloud Computing <br><br>
+## 💭 Reflection
 <p align= "justify">
 In my opinion, this Design Thinking assignment has been a transformative experience that has not only enhanced my technical acumen but also sharpened essential soft skills crucial for tackling real-world problems. The structured process of empathizing, defining problems, ideating, prototyping, and testing has refined my ability to approach challenges systematically and creatively.
 
