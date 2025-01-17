@@ -1,4 +1,4 @@
-## 💭Reflection
+## 💭 Reflection
 <h3 align="center">Design Thinking📱</h3>
 <p align= "justify">
 In my opinion, this Design Thinking assignment has been a transformative experience that has not only enhanced my technical acumen but also sharpened essential soft skills crucial for tackling real-world problems. The structured process of empathizing, defining problems, ideating, prototyping, and testing has refined my ability to approach challenges systematically and creatively.
