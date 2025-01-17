@@ -9,5 +9,5 @@ In conclusion, the talks offered valuable insights into the pivotal role of ICT 
 
 <div align="center">
   <h3>-Poster-</h3>
-  <a href="https://github.com/Angela127/Year-1/blob/18e036f7cc953b4fe49a12105b6b338ccae72bfd/Technology%20and%20Information%20System/Industry%20Talk%20%26%20Industry%20Visit/Assignment%201%20(Format%3A%20Poster)/Assignment%201%20Group%207%20Section%2002%20SECP1513.pdf">Overview of ICT Jobs in Industry</a>
+  <a href="https://github.com/Angela127/Year-1/blob/9e957d5dd94fc0d17a8d5b931dc7da806622c241/Technology%20and%20Information%20System/Industry%20Talk%20%26%20Industry%20Visit/Assignment%201%20(Format%3A%20Poster)/Assignment%201%20Group%207%20Section%2002%20SECP1513.pdf">Overview of ICT Jobs in Industry</a>
 <br><br>
