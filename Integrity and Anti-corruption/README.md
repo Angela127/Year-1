@@ -15,7 +15,7 @@ Through case studies and real-life examples, we are engaged in analyzing corrupt
 **Topic 8** - White Collar Crime <br>
 **Topic 9** - Causes, Symptoms and Effects of Corruption <br>
 **Topic 10** - Report Corruption, Preventive Measures and Government Initiatives <br>
-**Topic 11** - Social Institution in the Culture of Integrity and Anti-corruption <br>
+**Topic 11** - Social Institution in the Culture of Integrity and Anti-corruption <br><br>
 
 ## 💭 Reflection
 <p align= "justify">
