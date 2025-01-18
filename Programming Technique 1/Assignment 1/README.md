@@ -1,1 +1,9 @@
+## 💭 Reflection
+<p align= "justify">
+In this assignment, we were tasked with creating a flowchart for a BMR (Basal Metabolic Rate) calculator. This process enhanced my understanding of flowcharts, particularly their key components such as Start and End elements, processes and loops. Working on this project allowed me to grasp the importance of properly structuring a flowchart to represent logical processes effectively.
 
+Additionally, this assignment significantly improved my problem-solving skills. I had to identify the most efficient and concise approach to calculate BMR, which involved using branching and repetition to ensure the program was optimized and user-friendly. Understanding how to streamline the code and logic not only made the process more efficient but also deepened my appreciation for how flowcharts can simplify complex algorithms.
+
+Moreover, the project emphasized the importance of collaboration skills. Working closely with my teammate, we discussed and debated various solutions to find the best possible approach for our assignment. This teamwork taught me the value of combining different perspectives and leveraging each team member's strengths to achieve a shared goal. The collaborative environment encouraged open communication and problem-solving, which are essential skills for future projects and professional scenarios.
+
+In conclusion, this assignment was a valuable learning experience. It helped me understand how flowcharts serve as a vital tool in visualizing and optimizing problem-solving strategies. Moving forward, I aim to apply these insights to future projects by designing more efficient and well-structured solutions. If possible, incorporating additional real-world examples or scenarios into the assignments could further enhance our ability to apply these concepts in practical settings.
