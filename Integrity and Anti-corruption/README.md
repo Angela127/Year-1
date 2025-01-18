@@ -19,15 +19,13 @@ Through case studies and real-life examples, we are engaged in analyzing corrupt
 
 ## 💭 Reflection
 <p align= "justify">
-In my opinion, this Design Thinking assignment has been a transformative experience that has not only enhanced my technical acumen but also sharpened essential soft skills crucial for tackling real-world problems. The structured process of empathizing, defining problems, ideating, prototyping, and testing has refined my ability to approach challenges systematically and creatively.
+Through the assignments given in this course, I have gained a profound understanding of the causes and effects of corruption, not only on individuals but also on society as a whole. By exploring various forms of corruption, I discovered that misuse of power occurs more frequently in daily life than I previously realized. Additionally, I learned effective strategies to prevent corruption, such as reporting suspicious activities to the appropriate authorities. This ensures that those involved are held accountable and face appropriate consequences, such as penalties or imprisonment.
 
-The emphasis on critical thinking throughout the process taught me to analyze problems deeply, ensuring that solutions address root causes rather than superficial symptoms. By actively engaging in brainstorming sessions, I developed a stronger appreciation for collaboration and the value of diverse perspectives. Each discussion with my teammates revealed new insights, fostering an environment of shared learning and collective problem-solving.
+Moreover, completing these assignments enhanced my collaboration skills. Working closely with my teammates, I learned the importance of teamwork, effective communication, and mutual support to successfully achieve our project goals. This experience emphasized that combating corruption requires collective effort and shared responsibility.
 
-Creativity was another critical aspect that Design Thinking encouraged me to cultivate. Exploring unconventional solutions during the ideation phase pushed me to think beyond traditional approaches, nurturing a mindset of innovation. This skill is especially valuable as I look forward to applying these methods in future internships, projects, and assignments.
+The course has also inspired me to adopt the motto “Say NO to corruption” as a guiding principle in my life. It serves as a constant reminder to uphold integrity and promote ethical behavior in both personal and professional settings.
 
-One of the highlights of this experience was the exposure to IoT (Internet of Things). Delving deeper into its applications provided me with a better understanding of emerging technologies and their integration into practical solutions. It reinforced the importance of staying updated on technological advancements to remain competitive in the industry.
-
-To further develop my potential, I plan to embrace opportunities for collaborative projects and seek feedback from individuals with diverse backgrounds. These experiences will continue to enhance my problem-solving, communication, and technical skills, ensuring that I am well-prepared to handle complex challenges in the future. Overall, Design Thinking has been an invaluable learning journey, laying the foundation for both personal and professional growth. 
+In conclusion, while the current activities in the course, such as creating posters and videos, were educational, I believe adding more interactive and hands-on activities would make the learning experience even more impactful. For example, organizing debates, role-playing scenarios, or hosting guest speakers from anti-corruption organizations could help students gain a deeper understanding of the importance of preventing corruption. These additions would further prepare us to take active roles in promoting integrity and combating corruption in our communities.
 
 <div align="center">
   <h3>-Poster-</h3>
