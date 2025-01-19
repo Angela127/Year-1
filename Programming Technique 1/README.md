@@ -21,17 +21,17 @@ Overall, Programming Technique 1 has been an invaluable experience that has equi
 
 <div align="center">
   <h3>-Assignments-</h3>
-  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Assignment%201">Assignment 1</a>
+  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Assignments/Assignment%201">Assignment 1</a>
   <br><br>
-  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Assignment%202">Assignment 2</a>
+  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Assignments/Assignment%202">Assignment 2</a>
   <br><br>
-  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Assignment%203">Assignment 3</a>
+  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Assignments/Assignment%203">Assignment 3</a>
   <br><br>
   <h3>-Lab Exercises-</h3>
-  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Lab%20Exercise%201">Lab Exercise 1</a>
+  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Lab%20Exercises/Lab%20Exercise%201">Lab Exercise 1</a>
   <br><br>
-  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Lab%20Exercise%202">Lab Exercise 2</a>
+  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Lab%20Exercises/Lab%20Exercise%202">Lab Exercise 2</a>
   <br><br>
-  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Lab%20Exercise%203">Lab Exercise 3</a>
+  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Lab%20Exercises/Lab%20Exercise%203">Lab Exercise 3</a>
   <br><br>
-  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Lab%20Exercise%204">Lab Exercise 4</a>
+  <a href="https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201/Lab%20Exercises/Lab%20Exercise%204">Lab Exercise 4</a>
