@@ -1,1 +1,5 @@
-hi
+## 💭 Reflection
+<p align= "justify">
+The focus of Assignment 4 are the concepts of trees, Deterministic Finite Automata (DFA) and Finite State Machines (FSM). These topics are fundamental in discrete mathematics and computer science as they provide the foundation for understanding data organization, computational models and state-based systems. The section on trees was particularly insightful as it introduced me to hierarchical data structures and their applications in areas such as database indexing, file organization and decision-making processes. I learned about different orders of trees, such as preorder, inorder and postorder. This reinforced my understanding of data structure efficiency and problem-solving strategies.
+
+Exploring Deterministic Finite Automata (DFA) and Finite State Machines (FSM) was both challenging and rewarding. These computational models are used to represent and analyze the behavior of systems that operate in sequences of states. Understanding how to design and analyze a DFA or FSM required a precise focus on state transitions, input symbols and acceptance conditions. This improved my ability to think logically and systematically as even a small oversight in state or transition design could lead to incorrect results.
