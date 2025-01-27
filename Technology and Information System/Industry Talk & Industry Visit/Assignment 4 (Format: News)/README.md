@@ -9,5 +9,5 @@ In conclusion, this session has been an invaluable learning experience that has 
 
 <div align="center">
   <h3>-News-</h3>
-  <a href="#">Petronas</a>
+  <a href="https://github.com/Angela127/Year-1/blob/main/Technology%20and%20Information%20System/Industry%20Talk%20%26%20Industry%20Visit/Assignment%204%20(Format%3A%20News)/Assignment%204%20Group%207%20SECP1513%20.pdf">Petronas</a>
 <br><br>
