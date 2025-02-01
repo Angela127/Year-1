@@ -10,15 +10,15 @@ In conclusion, this project provided valuable insights into digital system desig
 
 <div align="center">
   <h3>-Circuit-</h3>
-  <a href="https://github.com/Angela127/Year-1/blob/main/Digital%20Logic/Project/Digital%20Logic%20Circuit.pbs">Petronas</a>
+  <a href="https://github.com/Angela127/Year-1/blob/main/Digital%20Logic/Project/Digital%20Logic%20Circuit.pbs">Deeds Circuit</a>
 <br><br>
 <h3>-Report-</h3>
-  <a href="https://github.com/Angela127/Year-1/blob/main/Digital%20Logic/Project/Digital%20Logic%20Report.pdf">Petronas</a>
+  <a href="https://github.com/Angela127/Year-1/blob/main/Digital%20Logic/Project/Digital%20Logic%20Report.pdf">Project Report</a>
 <br><br>
 <h3>-Video-</h3>
-  <a href="https://youtu.be/La8l-6TLpho">Petronas</a>
+  <a href="https://youtu.be/La8l-6TLpho">Recording Video</a>
 <br><br>
 <h3>-Presentation-</h3>
-  <a href="https://www.canva.com/design/DAGdXVKwfR8/HUkw79tpQTe_uOTHKyE2Bw/edit">Petronas</a>
+  <a href="https://www.canva.com/design/DAGdXVKwfR8/HUkw79tpQTe_uOTHKyE2Bw/edit">Presentation Slides</a>
 <br><br>
 
