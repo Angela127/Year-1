@@ -10,7 +10,7 @@ Overall, this lab was an invaluable learning opportunity that not only introduce
 
 <div align="center">
   <h3>-Deeds-</h3>
-  <a href="https://github.com/Angela127/Year-1/blob/main/Digital%20Logic/Lab%201/Lab%201%20Circuit.pbs">Lab 1 Deeds</a>
+  <a href="https://github.com/Angela127/Year-1/blob/51d67c488fcb878d48ca5fddd1bf59350e5e8d69/Digital%20Logic/Lab%201/Lab%201.pbs">Lab 1 Deeds</a>
   <br><br>
   <h3>-Circuit-</h3>
   <a href="https://github.com/Angela127/Year-1/blob/main/Digital%20Logic/Lab%201/Lab%201.JPG">Lab 1 Circuit</a>
